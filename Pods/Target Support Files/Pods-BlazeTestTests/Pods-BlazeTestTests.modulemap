@@ -1,0 +1,6 @@
+framework module Pods_BlazeTestTests {
+  umbrella header "Pods-BlazeTestTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
